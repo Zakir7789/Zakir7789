@@ -5,6 +5,11 @@
 
 - 📫 How to reach me **zakirahmad.7789@gmail.com**
 
+<h3 align="left">Check out my GFG Profile:</h3>
+<p align="left">
+<a href="(https://www.geeksforgeeks.org/profile/zakirahmaw7x)" target="blank"></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zakir ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakir ahmad" height="30" width="40" /></a>
