@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zakir Ahmad</h1>
 <h3 align="center">An Aspiring AI Engineer</h3>
 
-- 🔭 I’m currently working on **Geospatial Query System**
+- 🔭 I’m currently working on **Code Generation System**
 
 - 📫 How to reach me **zakirahmad.7789@gmail.com**
 
